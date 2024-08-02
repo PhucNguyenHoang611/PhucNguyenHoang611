@@ -13,12 +13,17 @@
  💕 Open and friendly, love to learn new things
  
  ✍️ **Don't cry because it's over, smile because it happened**
+
+ 💬 My portfolio **[Portfolio](https://phucnh-portfolio.vercel.app/)**
  
 </div>
 
 <div align="center"> 
   <a href="mailto:hoangphucnguyen112002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.facebook.com/phucnguyenhoang611/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/phucnguyen611/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -34,9 +39,9 @@
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,cs" /><br>
-  <img src="https://skillicons.dev/icons?i=react,redux,next,angular,vue,bootstrap,tailwind,mui,nodejs,express,dotnet,mongodb,mysql,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=github,git,azure,docker,vscode,visualstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript" /><br>
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,bootstrap,tailwind,mui,nodejs,express,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma" />
 </div>
 
 <br/>
